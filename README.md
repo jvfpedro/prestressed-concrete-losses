@@ -1,4 +1,4 @@
-# Prestressed Concrete Loss Calculation
+# prestressed-concrete-losses
 
 This is a study project for the *Civil Engineering* course. The goal of this code is to automate the calculation of prestressed concrete losses in beams, following standard Civil Engineering regulations.
 
@@ -33,6 +33,10 @@ The project is organized into three main scripts, each handling a specific type 
 
 ## Author
 
-João Vitor Ferreira Pedro Engineering Student at UFSC GitHub: https://github.com/jvfpedro
+João Vitor Ferreira Pedro
+[Civil Engineer - UFSC]
+[https://github.com/jvfpedro] [jvfpedro@gmail.com]
 
-Daniel Tavares dos Anjos Engineering Student at UFSC GitHub: https://github.com/danieltanjos
+Daniel Tavares dos Anjos
+[collaborator]
+[https://github.com/danieltanjos]
