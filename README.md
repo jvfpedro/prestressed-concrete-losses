@@ -35,4 +35,4 @@ The project is organized into three main scripts, each handling a specific type 
 
 João Vitor Ferreira Pedro Engineering Student at UFSC GitHub: https://github.com/jvfpedro
 
-Daniel Tavare dos Anjos Engineering Student at UFSC GitHub: https://github.com/danieltanjos
+Daniel Tavares dos Anjos Engineering Student at UFSC GitHub: https://github.com/danieltanjos
